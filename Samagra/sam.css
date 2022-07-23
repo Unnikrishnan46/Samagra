@@ -1,0 +1,580 @@
+*{
+    margin: 0;
+}
+.container{
+    height: 550px;
+    width: 100%;
+    background-color: #653e9f;
+    display: flex;
+}
+.first{
+    height: 80px;
+    width: 90px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.firstlogo{
+    padding-right: 1240px;
+}
+.second{
+    margin-left: -1214px;
+    margin-top: 38px;
+    height: 45px;
+    width: 150px;
+}
+.third{
+    margin-left: -713px;
+    margin-top: 35px;
+    height: 55px;
+    width: 100px;
+}
+.symbol{
+    color: white;
+    margin-left: -352px;
+    margin-top: 50px;
+    height: 20px;
+    width: 20px;
+}
+.download{
+    margin-left: -306px;
+    margin-top: 50px;
+    color: white;
+    font-family: monospace;
+    font-weight: 500;
+    font-size: 14px;
+}
+.loogin{
+    margin-left: -204px;
+    margin-top: 50px;
+    color: white;
+    font-family: monospace;
+    font-weight: 500;
+    font-size: 14px;
+}
+.signuup{
+    margin-left: -130px;
+    margin-top: 40px;
+    background-color: #653e9f;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 12px 25px;
+    border-radius: 50px;
+}
+.mainbox{
+    margin-top: 101px;
+    margin-left: -1105px;
+    width: 880px;
+    height: 500px;
+    background: white;
+    box-shadow: 10px 5px 10px;
+}
+.mainphoto{
+    height: 450px;
+    width: 840px;
+    margin-top: 27px;
+    margin-left: 17px;
+    margin-right: 24px;
+}
+.footermain{
+    height: 410px;
+    width: 1113px;
+    background-color: white;
+    margin-top: 138px;
+    margin-left: 114px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+}
+.section1{
+    background-color: #f4f4f4;
+    height: 380px;
+    width: 145px;
+    cursor: pointer;
+    border-radius:10px;
+}
+.section1:hover{
+    box-shadow: (0, 0, 0, 0.2);
+    box-shadow: 6px 7px 7px;
+}
+.section2{
+    background-color: #f4f4f4;
+    height: 380px;
+    width: 145px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.section2:hover{
+    box-shadow: (0, 0, 0, 0.2);
+    box-shadow: 6px 7px 7px;
+}
+.section3{
+    background-color: #f4f4f4;
+    height: 380px;
+    width: 145px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.section3:hover{
+    box-shadow: (0, 0, 0, 0.2);
+    box-shadow: 6px 7px 7px;
+}
+.section4{
+    background-color: #f4f4f4;
+    height: 380px;
+    width: 145px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.section4:hover{
+    box-shadow: (0, 0, 0, 0.2);
+    box-shadow: 6px 7px 7px;
+}
+.section5{
+    background-color: #f4f4f4;
+    height: 380px;
+    width: 145px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.section5:hover{
+    box-shadow: (0, 0, 0, 0.2);
+    box-shadow: 6px 7px 7px;
+}
+.section6{
+    background-color: #f4f4f4;
+    height: 380px;
+    width: 145px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.section6:hover{
+    box-shadow: (0, 0, 0, 0.2);
+    box-shadow: 6px 7px 7px;
+}
+
+
+
+
+
+
+
+
+
+.figure1{
+    height: 68px;
+    width: 68px;
+    border-radius: 50%;
+    margin-left: 38px;
+    margin-top: 10px;
+}
+.sec1head{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-weight: 500;
+}
+.content1{
+    text-align: center;
+    margin-top: 30px;
+    color: red;
+    font-size: 15px;
+    line-height: 1.6;
+}
+.contents1{
+    margin-top: 15px;
+    line-height: 1.6;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 12px;
+}
+.video1{
+    float: none;
+    margin-left: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 11px;
+    text-decoration: none;
+}
+.guide1{
+    margin-left: 43px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 11px;
+    text-decoration: none;
+}
+.button1{
+    background-color: white;
+    border: none;
+    color: blue;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 12px 25px;
+    border-radius: 50px;
+    margin-left: 30px;
+    margin-top: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.button1:hover{
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),0 17px 50px 0 rgba(0, 0, 0, 0.19)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.figure2{
+    height: 68px;
+    width: 68px;
+    border-radius: 50%;
+    margin-left: 38px;
+    margin-top: 10px;
+}
+.sec2head{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-weight: 500;
+}
+.content2{
+    text-align: center;
+    margin-top: 10px;
+    color: red;
+    font-size: 15px;
+    line-height: 1.6;
+}
+.contents2{
+    margin-top: 15px;
+    line-height: 1.6;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 12px;
+}
+.button2{
+    background-color: white;
+    border: none;
+    color: blue;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 12px 25px;
+    border-radius: 50px;
+    margin-left: 30px;
+    margin-top: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.button2:hover{
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),0 17px 50px 0 rgba(0, 0, 0, 0.19)
+}
+
+
+.figure3{
+    height: 68px;
+    width: 68px;
+    border-radius: 50%;
+    margin-left: 38px;
+    margin-top: 10px;
+}
+.sec3head{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-weight: 500;
+}
+.content3{
+    margin-top: 15px;
+    line-height: 1.6;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 12px;
+}
+.button3{
+    background-color: white;
+    border: none;
+    color: blue;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 12px 25px;
+    border-radius: 50px;
+    margin-left: 30px;
+    margin-top: 143px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.button3:hover{
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+
+
+
+
+.figure4{
+    height: 68px;
+    width: 68px;
+    border-radius: 50%;
+    margin-left: 38px;
+    margin-top: 10px;
+}
+.sec4head{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-weight: 500;
+}
+.contents4{
+    margin-top: 15px;
+    line-height: 1.6;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 12px;
+}
+.button4{
+    background-color: white;
+    border: none;
+    color: blue;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 12px 25px;
+    border-radius: 50px;
+    margin-left: 30px;
+    margin-top: 108px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.button4:hover{
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+
+
+
+
+
+
+
+.figure5{
+    height: 68px;
+    width: 68px;
+    border-radius: 50%;
+    margin-left: 38px;
+    margin-top: 10px;
+}
+.sec5head{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-weight: 500;
+}
+.contents5{
+    margin-top: 15px;
+    line-height: 1.6;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 12px;
+}
+.button5{
+    background-color: white;
+    border: none;
+    color: blue;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 12px 25px;
+    border-radius: 50px;
+    margin-left: 30px;
+    margin-top: 128px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.button5:hover{
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+
+
+
+.figure6{
+    height: 68px;
+    width: 68px;
+    border-radius: 50%;
+    margin-left: 38px;
+    margin-top: 10px;
+}
+.sec6head{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-weight: 500;
+}
+.contents6{
+    margin-top: 15px;
+    line-height: 1.6;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 12px;
+}
+.button6{
+    background-color: white;
+    border: none;
+    color: blue;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 12px 25px;
+    border-radius: 50px;
+    margin-left: 30px;
+    margin-top: 128px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.button6:hover{
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+
+.bottommain{
+    height: 600px;
+    width: 100%;
+    background: red;
+}
+.left-side{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    background: #f9f9f9;
+}
+.mainhead .heading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 26px;
+    margin-top: -174px;
+    margin-left: 103px;
+    vertical-align: middle;
+}
+.para1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    margin-left: 104px;
+    margin-top: 20px;
+    line-height: 1.6;
+}
+.button7{
+    background-color: white;
+    border: none;
+    color: blue;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 12px 25px;
+    border-radius: 50px;
+    margin-left: 118px;
+    margin-top: 22px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.button7:hover{
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.rightside{
+    margin-top: -600px;
+    width: 50%;
+    height: 100%;
+    background: #f9f9f9;
+    margin-left: 675px;
+}
+.video1{
+    width: 561px;
+    height: 284px;
+    margin-top: 80px;
+    margin-left: -15px;
+}
+.videolink1{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.videolink2{
+    margin-left: 90px;
+}
+.bottomlast{
+    width: 1351px;
+    height: 165px;
+    background-color: #ebeef0;
+}
+.details1{
+    width: 1351px;
+    height: 60px;
+    background-color: #ebeef0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.copyright{
+    margin-left: 120px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+}
+.about{
+    margin-left: 600px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    cursor: pointer;
+}
+.privacy{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 12px;
+    cursor: pointer;
+}
+.terms{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    cursor: pointer;
+}
+.help{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    cursor: pointer;
+}
+.contact{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    margin-right: 134px;
+    cursor: pointer;
+}
+.kite1{
+    height: 78px;
+    width: 88px;
+    margin-left: 135px;
+}
+.kite2{
+    margin-left: 840px;
+    height: 98px;
+    width: 108px;
+}
+
+
+
+
+
+
+
+
+
+
+
